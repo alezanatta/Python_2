@@ -1,0 +1,3 @@
+Joao Pereira,Gerente,3000
+Joana,Funcionario generico,500
+Joaninha,Funcionario generico,1200
